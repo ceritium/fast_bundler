@@ -6,11 +6,10 @@ require 'fast_bundler/version'
 Gem::Specification.new do |spec|
   spec.name          = "fast_bundler"
   spec.version       = FastBundler::VERSION
-  spec.authors       = ["Jos\xC3\xA9 Galisteo"]
+  spec.authors       = ["Jose Galisteo"]
   spec.email         = ["ceritium@gmail.com"]
-  spec.summary       = %q{ODO: Write a short summary. Required.}
-  spec.description   = %q{ODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Tricks to improve bundle}
+  spec.homepage      = "https://github.com/ceritium/fast_bundler"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
