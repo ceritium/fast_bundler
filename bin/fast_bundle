@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+exec Gem.bin_path('fast_bundler', 'fast_bundler')
