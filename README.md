@@ -28,6 +28,11 @@ Works like bundle, it's just a proxy, you can send the same params:
     $ fast_bundle outdate
     $ fast_bundle update rails
     
+    
+## Thanks
+
+To [mikz (Michal Cichra)](https://github.com/mikz) for do all the work.
+    
 
 ## Contributing
 
