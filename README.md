@@ -1,8 +1,8 @@
 # FastBundler
 
-Increase the limit of 100 to 1.000 gems to use the metadata api instead download the indexs.
+Increase the limit of 100 to 1.000 gems to use the metadata api instead downloading all the indexs.
 
-Use under your responsability, It's experimental, I don't know how could affect to rubygems...
+Use under your own responsability, It's experimental, I don't know the impact in rubygems...
 
 ## Installation
 
@@ -31,7 +31,7 @@ Works like bundle, it's just a proxy, you can send the same params:
     
 ## Thanks
 
-To [mikz (Michal Cichra)](https://github.com/mikz) for do all the work.
+To [mikz (Michal Cichra)](https://github.com/mikz) for doing all the work.
     
 
 ## Contributing
